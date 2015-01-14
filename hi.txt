@@ -1,1 +1,6 @@
 добавляю код.
+
+h1,h2,h3,h4,h5,h6{clear:both;font-weight:400;}
+ol,ul{list-style:none;text-align:left;font-size:14px;}
+blockquote{quotes:none;font-style:italic;padding:0 3em;}
+blockquote:before,blockquote:after{content:none;}
